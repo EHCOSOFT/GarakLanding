@@ -35,7 +35,7 @@
     text-align: center;
 }
 
-@media (min-width:992px) {
+@media (min-width:1100px) {
     .main-visual {
         background: url(../img/pc-main-visual.svg);
         background-size: cover;
@@ -71,7 +71,7 @@
     text-align: center;
 }
 
-@media (min-width:992px) {
+@media (min-width:1024px) {
     .main-section-01 {
         padding: 100px 0;
     }
@@ -176,6 +176,6 @@
 
 @media (min-width:992px) {
     .main-sec-img a {
-        font-size: var(--font-title-40-xxl) !important;
+        font-size: var(--font-title-28-xl) !important;
     }
 }
